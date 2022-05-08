@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AppBowling</string>
+    <string name="name">Név</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="registration">Regisztráció</string>
+    <string name="email">Email cím</string>
+    <string name="password2">Jelszó mégegyszer</string>
+    <string name="cancel">Vissza</string>
+    <string name="phoneNumber">Telefonszám</string>
+    <string-array name="phoneTypes">
+        <item>Mobil</item>
+        <item>Otthoni</item>
+    </string-array>
+    <string-array name="time_bowling">
+        <item>Mobil</item>
+        <item>Otthoni</item>
+    </string-array>
+
+</resources>
